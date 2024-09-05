@@ -28,17 +28,6 @@ See this [GitHub page](https://docs.github.com/en/repositories/creating-and-mana
 
 ![use this template button](https://docs.github.com/assets/cb-76823/mw-1440/images/help/repository/use-this-template-button.webp)
 
-
-
-
-
-
-licence
-badges
-
-
-
-
 ## Contributing
 
 <!-- For more detail on GitHub issues see https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues -->
